@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**mario-neuhold/mario-neuhold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I'm Mario 👋
+- 🔭 I’m currently working on an [esport tournament website](https://alpenscene.pro/) and some management tools for the stream.
+- 🌱 I’m currently learning Nuxt3, TypeScript and UE5 Editor
+- 📫 How to reach me: https://twitter.com/mrioa
+- ⚡ Fun fact: I'm a few days older than the Super Mario Bros. video game for NES
+- ✅ I’ve made:
+  - https://alpenscene.at - esports blog: VueJS SSG frontend with Gridsome and Tailwind CSS, grabbing >1000 posts from WordPress on build
+  - https://alpenscene.pro - esports tournament landingpage (wip): Nuxt3 and Tailwind CSS
+  - https://staatscup.alpenscene.pro - detailed esports tournament website: Nuxt2 and Tailwind CSS
+    - including a tool to handle obs stream overlays via a website, see it in action here at about 01:25:00 https://www.twitch.tv/videos/1149765821
+    - also including a tool to render some of the overlay data for social media graphics
+  - https://vinlej.at - business website: Nuxt2 and Tailwind CSS
+  - some small esport tools / websites
+    - lolaustria.at (discontinued), listing and ranking of LoL accounts of members of a community, Riot API queries via PHP library.
+    - DL Helper for CS:GO Demos of FaceIt Matches, queried FaceIT API via JS 
