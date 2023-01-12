@@ -1,5 +1,5 @@
 ### Hi, I'm Mario 👋
-- 🔭 I’m currently working on an [esport tournament website](https://alpenscene.pro/) and some management tools for the stream.
+- 🔭 I’m currently working on some websites for friends.
 - 🌱 I’m currently learning Nuxt3, TypeScript and UE5 Editor
 - 📫 How to reach me: https://twitter.com/mrioa
 - ⚡ Fun fact: I'm a few days older than the Super Mario Bros. video game for NES
