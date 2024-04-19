@@ -13,7 +13,7 @@
      - Large multisite instance of WordPress for 100+ national locations of the same brand
      - Large Nuxt2 and Symfony app that lets salespeople from 10+ countries create strictly branded offer sheets
      - Some corporate PWAs, some smaller Vue and Nuxt apps
-     - An only multiplayer card game "car top trumps" (DE: Auto Super Trumpf)
+     - An online multiplayer card game "car top trumps" (DE: Auto Super Trumpf)
   - Some projects for my cute little esports organization alpenScene
     - https://alpenscene.at - esports blog: VueJS SSG frontend with Gridsome and Tailwind CSS, grabbing >1000 posts from WordPress on build
     - https://alpenscene.pro - esports tournament landingpage (wip): Nuxt3 and Tailwind CSS
