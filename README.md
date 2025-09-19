@@ -4,7 +4,7 @@
 - 🌱 I’m currently getting more into TypeScript, ThreeJS and dipping my toes into Laravel while trying to figure out why my first guitar is still not playing any songs well.
 - 📫 How to reach me:
   - mario.neuhold@proton.me
-  - https://bsky.app/profile/mrioa.bsky.social
+  - https://bsky.app/profile/mrioa.at
   - Discord: mario.neuhold
 - ⚡ Fun fact: I'm a few days older than the Super Mario Bros. video game for NES
 - ✅ I’ve made:
